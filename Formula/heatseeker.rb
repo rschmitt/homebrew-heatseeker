@@ -1,8 +1,8 @@
 class Heatseeker < Formula
   desc 'A high-performance general purpose fuzzy finder, based on selecta'
   homepage 'https://github.com/rschmitt/heatseeker'
-  url 'https://github.com/rschmitt/heatseeker/releases/download/v1.7.0/heatseeker-v1.7.0-x86_64-apple-darwin.tar.gz'
-  sha256 '8991c054bf5bd5000eedd5305a8e8426eb098778715debd68e926fce191fe54a'
+  url 'https://github.com/rschmitt/heatseeker/releases/download/v1.7.1/heatseeker-v1.7.1-x86_64-apple-darwin.tar.gz'
+  sha256 '01a19d1e32b9501a2f0b81a4496e1efc524cccdcb0271e83b262120309723dd8'
 
   def install
     bin.install 'hs'
